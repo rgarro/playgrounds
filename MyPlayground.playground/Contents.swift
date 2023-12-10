@@ -10,4 +10,4 @@ while str2 < 100 {
  str2 += 1
    // print(str2)
 }
-print(str2)
+print(String(str2)+" lo")
